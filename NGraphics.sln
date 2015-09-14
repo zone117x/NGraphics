@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGraphics.Android.Test", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGraphics.Editor", "NGraphics.Editor\NGraphics.Editor.csproj", "{FBCD4FB5-DE2B-4840-8D2F-5862E7C19242}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGraphics.WPF", "Platforms\NGraphics.WPF\NGraphics.WPF.csproj", "{CC3D6157-D058-4D77-983F-93F6380C9BA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
